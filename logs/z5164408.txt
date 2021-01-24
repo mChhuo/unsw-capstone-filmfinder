@@ -1,0 +1,82 @@
+Meeting 1: Thursday 17th
+Met group and made some decisions. We elected peter to be the scrum master
+Decided to do the project film finder in python and flask.
+We got to work on the user stories and managed to get a fair amount of them done.
+
+For now we plan to meet tomorrow (Friday 18th) after we have brushed up on our flask
+TO DO: get the last of the user stories done and decide the steps forward
+
+Meeting 2: Friday 18th
+Today we met up again. We finished the initial draft of the user stories and did some refreshing on flaks and python.
+We also made some progress on what was not planned for today,
+coming up with the website boilerplate for the api, db and front end
+as well as downloading the initial data for the database and making a rudimentary database
+We had some initial trouble with jira but managed to get past it in the end.
+
+TO DO: Still to be done are the novelty user stories, cleaning the database and the storyboards which will
+hopefully be done over the next week.
+
+Meeting 3: Tuesday 22nd
+I started the proposal and managed to get the background section done.
+Peter has generated the database file as well as some basic functions to access it.
+Kevin has been cleaning the database to remove unnecessary information and format it for easier and faster querying.
+Steven wrote up the novelty aspects on Jira
+Michael wrote the acceptance criteria for the user stories on Jira
+We split up the remainder of the proposal, hoping to get most of it done before the next meeting on thursday.
+
+Meeting 4: Thursday 24/09/2020
+Met group and continued proposal work. I types up all user stories into tables and put them in place.
+The flow diagrams and story board are yet to be added but they have almost been completed.
+Our sprints have been decided on but have yet to be given dates or put into jira
+Still to do: sprint overview, overall formatting and making it look more professional
+
+Meeting 5: Tuesday 29/09/2020
+Met up to confirm completed sections of the proposal and to split final sections yet to be completed.
+Spoke of first sprint and started to consider how to complete it.
+Overall feel like we are on target and will have proposal compete by sunday.
+
+Meeting 6: Thursday 1/10/2020
+Met up in scheduled lab. Had some clarification given about story boards.
+Worked primarily on proposal as it is due in a few days.
+Feel like we will be on schedule and have it done on time.
+Preparing to ramp up for Sprint 1 starting next week
+
+Meeting 7: Thursday 8/10/2020
+Things going well, Proposal was submitted on time and completed and the first sprint has started.
+Tasks have been divided into front end and back end to allow us to work on the entire project.
+I will be working on the react/javascript front end with Peter and am feeling pretty good about it.
+I havent worked with React before but it doesnt seem super complicated and I think i can get the hang of it.
+
+Meeting 8: Thursday 15/10/2020
+Just finished our progress demonstration and retrospective. I think it went well.
+No serious bugs were shown in the demonstration and the minor ones that were shown have been noted and will be fixed.
+Though we didn't finish all of the user stories in the sprint, this sprint was out largest and i feel it went very well.
+I have been assigned to be the comment police: the person who will ensure proper code commenting is added and maintained on the code.
+I shouldn't haveany problems with this, i ust need to add the comments to my sections of the code first.
+Overall I have a good grasp on react and the front end coding that it uses and feel I have been "pulling my weight" 
+and have done a fair share of the tasks.
+
+Monday 26/10/2020
+Ramping up for the second sprint is going well.
+I have been placed on improving the profile page, pagination and wishlist content for the front end.
+Its going well and I have completed the first 2 tasks, witht the third well underway.
+Peter is also workig with me onn the front end, working on filering, reviews and the banned list.
+I think we will have no problem complting the workload by the presentation on thursday.
+
+Thursday 29/10/2020
+My bad, in previous logs I had put down the wrong day fro the second demo, woops.
+Anyway progress is great, only two user stories still remain to be completed for this sprint,
+See no problems in copleteing this sprint for the presentation.
+Still plan to do many bug fixe and cleanup in the code but otherwise this should be goood
+Kevin will continue working on the back end moving into sprint 3, whilst the other backend people
+will move to the front end for the final sprint to ensure we can squash the bugs and get everything running well
+
+Thursday 5/11/2020
+Had our second demonstration and retrospective today, it went well. Moving into the final sprint should be a problem.
+I've been placed on the admin tasks. It has been a bit of a struggle to ind time due to other projects and work for my other
+courses for both myself and the other members of the group but we still have plenty of tim and we should get it done without a problem.
+
+Thursday 12/11/2020
+So far, thuis sprint has gone well. About half of this sprint is done from the front end and almost all is done from the back end.
+Moving forward we still have our noverly work for film partners and some minor fixing and tweaks to do.
+Then the project report has to be generated. While it may be tight i think we should be able to get it done before the deadline.

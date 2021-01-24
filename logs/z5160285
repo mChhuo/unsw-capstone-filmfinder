@@ -1,0 +1,51 @@
+Week 1
+
+Our group was formed and we set up Jira. For this week I decided to write most of the user stories and asked group members to add on any user stories I had missed.
+During our group meeting we discussed what we expected out of this project and how we would tackle the project. Everyone had to brush up on the necessary skills (Flask, React) 
+to prepare for our sprints. 
+
+For next week we planned to finish cleaning up our database. This was handled by Peter and Kevin. Also we had to make a start on our project proposal which Aidan made a start with.
+
+Week 2
+For this week I added acceptance criteria for all user stories. In our meeting we planned to have completed our project proposal and go over it as a group next week before
+submitting. Additionally I completed our initial story board for the website and planned to finish the flow diagrams next week. Steven added more user stories that
+related to the novelty mark. 
+
+For next week I planned to finish our flow diagrams and refine the story boards. Everyone would then combine their parts into the proposal before we had a final review
+and submitted our work.
+
+Week 3
+In week 3 our main goal was to finalise the project proposal. To do this we had to complete the storyboards and flow charts. I worked on the flow charts and Peter and Steven
+helped me complete the story boards. Aidan was working hard to understand React since he had no experience with the front end but was still working fantastically. Kevin had cleaned
+up our databases and mapped out our relational database.
+
+I think our proposal was done well and we achieved all that was asked from us. We had some issues regarding how we wanted to do the storyboard where we mapped each individual 
+page or we were to map each "goal" a user would have when using our website. In the end and after discussion with Rachid we chose with the first one since it was easier work.
+
+For next week it was time to start our first sprint. Since most of us were rusty from python flask we would be employing pair programming so that everyone could get caught up to date.
+
+Week 4
+In week 4 we attempted to finish our sprint. The first sprint was actually quite large and we questioned wether or not we would be able to finish it all. I worked on some forget 
+password/change password features and pair programmed with the group. Kevin, Steven and I were tasked with the backend while Peter and Aidan were working on the front end. Everyone
+was working extremely well together and I was happy with the progress we were making. By the end of the week we had just finished login and we were looking for any errors
+while Peter was improving the overall design of the website. Aidan was working very closely with the backend as he was tasked with checking our backend code worked.
+
+Next week we had to present and we were looking forward to it. We still had more work to do and our goal was to complete as many user stories as possible
+
+Week 5
+We presented our current work and I believe we showed a good product. Overall we finished all account details and some search/movie details. We received feedback from Rachid
+with regards to sending a confirmation email when a user registered their account and we will be attempting to implement this later down the future. Although we had some user
+stories that weren't completed we weren't worried since Sprint 1 was huge and we decided to push it into Sprint 2. 
+
+We held our retrospective meeting straight after our demonstration and discussed what we had to improve. Obviously next week we were going to start Sprint 2 and we aimed to 
+finish the stories we could not complete in Sprint 1. Our group works extremely well now, with daily meetings at night while we all code together and share our thoughts.
+
+
+Week 7
+We misjudged the sprint times and thought the second progressive demo would be in week 7 but it was actually in week 8. As a result of this we actually 
+finished almost all the sprint 2 user stories. We worked very well as a team, Peter and Aidan were doing the front end whilst Steven, Kevin and I were working on 
+the backend. However we were told from Aidan and Peter that the work in the front-end was piling up and they requried extra help. As a result Steven and I decided to 
+start helping them in the front end and take some of the load off them. 
+
+For next week we would just try to finish the user stories that we hadn't completed in sprint 2 since sprint 3 was especially small and mainly novelty items. Additionally
+we have a lot of bugs that we need to fix up for the final project.

@@ -1,0 +1,76 @@
+.movie-details {
+  .movie-details-box {
+    margin: 50px 0;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    column-gap: 50px;
+
+    .wishlist-btn {
+      color: #1f88e5;
+      margin-top: -10px;
+      margin-bottom: 1rem;
+      &:hover {
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    }
+
+    .movie-img {
+      width: 100%;
+    }
+    .movie-detail-content {
+      .title {
+        font-size: 64px;
+        margin-bottom: 5px;
+        .year {
+          font-size: 24px;
+          font-weight: 200;
+        }
+      }
+      .tagline {
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: 300;
+        margin-bottom: 15px;
+      }
+      .overview {
+        font-size: 13px;
+        font-weight: 300;
+      }
+    }
+    .movie-detail-stats {
+      font-size: 14px;
+      font-weight: 300;
+      max-width: 20vw;
+      p {
+        margin-bottom: 10px;
+      }
+      .genres {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .bb {
+        color: #1f88e5;
+        margin-bottom: 1rem;
+        &:hover {
+          text-decoration: underline;
+          cursor: pointer;
+        }
+      }
+      .score {
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        padding: 24px 0;
+      }
+    }
+  }
+
+  .score-submit-box {
+    display: flex;
+    .score-select {
+      width: 75px;
+      margin-top: 10px;
+    }
+  }
+}
